@@ -1,0 +1,4 @@
+pip install pygame
+
+
+in line 34 image = pygame.image.load(os.path.join("put the file path of the images file 'C:/Users/Desktop/chess_game'", f"{piece}.png"))
